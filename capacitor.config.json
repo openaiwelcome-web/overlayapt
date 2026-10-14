@@ -1,0 +1,10 @@
+{
+  "appId": "com.test.com",
+  "appName": "test",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  }
+}
